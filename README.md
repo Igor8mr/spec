@@ -3,6 +3,7 @@
 <!-- no verify-specs -->
 
 ![CloudEvents logo](https://github.com/cncf/artwork/blob/master/projects/cloudevents/horizontal/color/cloudevents-horizontal-color.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIgor8mr%2Fspec.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FIgor8mr%2Fspec?ref=badge_shield)
 
 [![CLOMonitor](https://img.shields.io/endpoint?url=https://clomonitor.io/api/projects/cncf/cloudevents/badge)](https://clomonitor.io/projects/cncf/cloudevents)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6770/badge)](https://bestpractices.coreinfrastructure.org/projects/6770)
@@ -171,3 +172,7 @@ Periodically, the group may have in-person meetings that coincide with a major
 conference. Please see the
 [meeting minutes doc](https://docs.google.com/document/d/1OVF68rpuPK5shIHILK9JOqlZBbfe91RNzQ7u_P7YCDE/edit#)
 for any future plans.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIgor8mr%2Fspec.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FIgor8mr%2Fspec?ref=badge_large)
